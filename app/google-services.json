@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "931943734334",
+    "project_id": "testtbc-49f54",
+    "storage_bucket": "testtbc-49f54.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:931943734334:android:573903fd45263c2c53056f",
+        "android_client_info": {
+          "package_name": "com.task.techbridge"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKV3vEPSkCGmD4uSARWJr4S_FXrsoBDUs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
